@@ -12,5 +12,6 @@ Un blog increíble creado para el [curso de Git y GitHub](https://platzi.com/cla
 * Trucos muy locos del profesor.
 * Las personalidades múltiples de Freddy.
 * Creado por Batman
+* Incluye dulces y chocolates.
 
 Y como un amable recodratorio: **Este readme.md, y el repo en general, es un chiste** y solo fue creado para prácticar. NO TE LO TOMES ENSERIO 🤣.
